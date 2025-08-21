@@ -2,3 +2,5 @@
 
 ```bash
 python grafik.py
+
+## Novrylianto Zundi Ramadhan
