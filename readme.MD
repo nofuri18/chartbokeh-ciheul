@@ -1,3 +1,4 @@
-<!-- Kode untuk menjalankan -->
+## Cara Menjalankan Program
 
-<!-- python grafik.py -->
+```bash
+python grafik.py
